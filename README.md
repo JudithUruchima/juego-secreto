@@ -1,2 +1,2 @@
 # juego-secreto
-Juego que hice con ayudo del curso de Alura latam
+Juego que hice con ayuda del curso de Alura latam
